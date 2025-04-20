@@ -1,7 +1,7 @@
 import {Sequelize} from "sequelize";
 
-const db = new Sequelize('tugascrud', 'root', '', {
-    host: 'localhost',
+const db = new Sequelize('exc5', 'root', '', {
+    host: '34.50.76.140',
     dialect: 'mysql'
 });
 
